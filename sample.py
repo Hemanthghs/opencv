@@ -1,1 +1,1 @@
-sample
+print("sample")
