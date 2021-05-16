@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import imutils
-import pyautogui as pg
+import pyautogui as pg  #for operating keys using python
 
 cap= cv2.VideoCapture(0)
 cap.set(3,640)
